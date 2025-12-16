@@ -33,6 +33,8 @@ dbutils.widgets.help()
 
 dbutils.widgets.removeAll()
 
+
+
 # COMMAND ----------
 
 dbutils.widgets.text("team_name","Enter team name","This is to represent our team name")
